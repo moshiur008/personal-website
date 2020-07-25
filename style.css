@@ -1,0 +1,119 @@
+body {
+    margin:0;
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    font-size:40px;
+    font-weight:400;
+}
+
+section {
+    margin:0 auto;
+    height:700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.about-me {
+    background-image: url(img/header-bg.png);
+}
+
+.biography {
+    background-image: url(img/biography-bg.png);
+}
+
+.latest-work {
+    background-image:url(img/latest-work-bg.png);
+}
+
+.contact {
+    background-image:url(img/footer-bg.png);
+}
+
+.half-width {
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding:2%;
+
+}
+
+.half-width img {
+    width:500px;
+}
+
+.about-inner {
+    
+    padding-top:6%;
+}
+
+.pink-highlight {
+    color:#EC4E8D;
+    font-weight:900;
+    letter-spacing: 3px;
+    font-size:40px;
+}
+
+.pink-button {
+    text-decoration: none;
+    padding:10px 30px;
+    background-image:linear-gradient(to right, deeppink, #EC4F94);
+    color:#fff;
+    font-weight:700;
+    margin-top:30px;
+    display:inline-block;
+}
+
+section.latest-work {
+    height:500px;
+}
+
+.works {
+    width:80%;
+    margin:0 auto;
+    text-align:center;
+}
+
+.works img {
+    max-width:30%;
+    padding:0 1%;
+    
+}
+
+.contact-inner {
+    width:80%;
+    margin:0 auto;
+    text-align:center;
+}
+
+.contact-inner .testimonial {
+    width:50%;
+    margin:70px auto;
+    
+}
+
+p.testimonial-title {
+    color:gray;
+}
+
+.contact-box {
+    background-image:linear-gradient(to right, deeppink, #EC4F94);
+    width:60%;
+    margin:30px auto;
+    padding:30px 0;
+    border-radius:10px;
+    color:#fff;
+    
+}
+
+.email a {
+    text-decoration: none;
+    font-size:24px;
+    color:#fff;
+}
+
+footer p {
+    text-align:center;
+}
