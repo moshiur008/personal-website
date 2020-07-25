@@ -81,7 +81,6 @@ section.latest-work {
     padding:0 1%;
     
 }
-
 .contact-inner {
     width:80%;
     margin:0 auto;
@@ -93,11 +92,9 @@ section.latest-work {
     margin:70px auto;
     
 }
-
 p.testimonial-title {
     color:gray;
 }
-
 .contact-box {
     background-image:linear-gradient(to right, deeppink, #EC4F94);
     width:60%;
@@ -105,7 +102,6 @@ p.testimonial-title {
     padding:30px 0;
     border-radius:10px;
     color:#fff;
-    
 }
 
 .email a {
